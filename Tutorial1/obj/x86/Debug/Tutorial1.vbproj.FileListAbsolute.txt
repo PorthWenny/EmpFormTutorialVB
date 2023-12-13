@@ -1,0 +1,73 @@
+D:\FAITH COLLEGES\2nd year\1st Sem\Itecc 05\Midterm\MYSQL VS\Database VS\Tutorial1\Tutorial1\bin\Debug\Tutorial1.exe
+D:\FAITH COLLEGES\2nd year\1st Sem\Itecc 05\Midterm\MYSQL VS\Database VS\Tutorial1\Tutorial1\bin\Debug\Tutorial1.pdb
+D:\FAITH COLLEGES\2nd year\1st Sem\Itecc 05\Midterm\MYSQL VS\Database VS\Tutorial1\Tutorial1\bin\Debug\Tutorial1.xml
+D:\FAITH COLLEGES\2nd year\1st Sem\Itecc 05\Midterm\MYSQL VS\Database VS\Tutorial1\Tutorial1\obj\x86\Debug\Tutorial1.Form1.resources
+D:\FAITH COLLEGES\2nd year\1st Sem\Itecc 05\Midterm\MYSQL VS\Database VS\Tutorial1\Tutorial1\obj\x86\Debug\Tutorial1.Resources.resources
+D:\FAITH COLLEGES\2nd year\1st Sem\Itecc 05\Midterm\MYSQL VS\Database VS\Tutorial1\Tutorial1\obj\x86\Debug\Tutorial1.vbproj.GenerateResource.Cache
+D:\FAITH COLLEGES\2nd year\1st Sem\Itecc 05\Midterm\MYSQL VS\Database VS\Tutorial1\Tutorial1\obj\x86\Debug\Tutorial1.exe
+D:\FAITH COLLEGES\2nd year\1st Sem\Itecc 05\Midterm\MYSQL VS\Database VS\Tutorial1\Tutorial1\obj\x86\Debug\Tutorial1.xml
+D:\FAITH COLLEGES\2nd year\1st Sem\Itecc 05\Midterm\MYSQL VS\Database VS\Tutorial1\Tutorial1\obj\x86\Debug\Tutorial1.pdb
+D:\FAITH COLLEGES\2nd year\1st Sem\Itecc 05\Midterm\MYSQL VS\Database VS\Tutorial1\Tutorial1\obj\x86\Debug\Tutorial1.Form2.resources
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\obj\x86\Debug\Tutorial1.vbproj.AssemblyReference.cache
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\obj\x86\Debug\Tutorial1.Form1.resources
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\obj\x86\Debug\Tutorial1.Form2.resources
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\obj\x86\Debug\Tutorial1.Resources.resources
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\obj\x86\Debug\Tutorial1.vbproj.GenerateResource.cache
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\obj\x86\Debug\Tutorial1.vbproj.CoreCompileInputs.cache
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\obj\x86\Debug\Tutorial1.exe
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\obj\x86\Debug\Tutorial1.xml
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\obj\x86\Debug\Tutorial1.pdb
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\Tutorial1.exe.config
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\Tutorial1.exe
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\Tutorial1.pdb
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\Tutorial1.xml
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\Google.Protobuf.dll
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\K4os.Compression.LZ4.dll
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\K4os.Hash.xxHash.dll
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\MySql.Data.dll
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\System.Buffers.dll
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\System.IO.Pipelines.dll
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\System.Memory.dll
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\System.Numerics.Vectors.dll
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\ZstdSharp.dll
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\Google.Protobuf.pdb
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\Google.Protobuf.xml
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\K4os.Compression.LZ4.xml
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\K4os.Hash.xxHash.xml
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\MySql.Data.xml
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\System.Buffers.xml
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\System.IO.Pipelines.xml
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\System.Memory.xml
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\System.Numerics.Vectors.xml
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\obj\x86\Debug\Tutorial1.vbproj.CopyComplete
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\Npgsql.dll
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\System.Collections.Immutable.dll
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\System.Text.Encodings.Web.dll
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\System.Text.Json.dll
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\System.Threading.Channels.dll
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\System.ValueTuple.dll
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\Npgsql.xml
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\System.Collections.Immutable.xml
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\System.Text.Encodings.Web.xml
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\System.Text.Json.xml
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\System.Threading.Channels.xml
+D:\Sutdent Files\COLLEGE FILES\VB tutorial ni bossing\vbngpinas\Tutorial1\bin\Debug\System.ValueTuple.xml
